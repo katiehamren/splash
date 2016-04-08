@@ -1,5 +1,7 @@
 # splash
 
+DON'T USE ME YET
+
 splash is a module for compiling data from the SPLASH survey. Descriptions of the spectroscopic
 and photometric data are available in
 
