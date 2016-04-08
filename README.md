@@ -19,4 +19,4 @@ and many others.
 
 While this code is public, the data is not. As a result, this module is designed for use by SPLASH team members.
 Successful execution of the codes requires, at minimim, folders of spec1d and zspec .fits files. Please contact
-Professor Puragra GuhaThakurta at UC Santa Cruz to discuss access.
+Professor [Puragra GuhaThakurta](http://www.ucolick.org/~raja/) at UC Santa Cruz to discuss access.
